@@ -29,10 +29,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="homework1_1.cpp">
+    <ClCompile Include="x.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="x.cpp">
+    <ClCompile Include="作用域与生命周期.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
